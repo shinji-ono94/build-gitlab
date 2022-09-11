@@ -3,6 +3,7 @@
 ## Advance Information
 - [Supported operating systems](https://docs.gitlab.com/ee/administration/package_information/supported_os.html)
 - [Reference gitlab architecture](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html)
+- [Compare gitlab to github](https://www.gitlab.jp/devops-tools/github-vs-gitlab.html)
 
 ## install manual (Japanese)
 - [install virtual machine](https://qiita.com/HirMtsd/items/225c20b77a7cd5194834)
