@@ -11,3 +11,8 @@
   - [install vim](https://qiita.com/tommy_g/items/3ad4b26ccb4893f2760e)
   - [gitlab url from http to https](https://qiita.com/yuuAn/items/09a434d3f6cffa31101e#fn2)
     - [install Let's Encrypt](https://qiita.com/daiki44/items/a3616390f277722b97e0)
+
+
+## notes
+### build gitlab (Docker)
+- [install gitlab](https://qiita.com/ryuichi1208/items/1c08523b0ef34d05026f)
