@@ -38,5 +38,7 @@
 - [Access from my PC](https://kagasu.hatenablog.com/entry/2018/01/29/184205)
   - [Set firewall](https://knowledge.support.sony.jp/electronics/support/articles/S1206270039326) 
 - [Oparate gitlab](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
+  - [integrate Microsoft Teams with GitLab](https://docs.gitlab.com/ee/user/project/integrations/microsoft_teams.html)
+    - [set gitlab proxy](https://qiita.com/nmatayoshi/items/533a93a5d97de18c9e5a)
 ### Mak gitlab useful
 - [gitlab Japanese](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
