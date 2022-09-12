@@ -31,3 +31,5 @@
 ## install manual (Japanese)
 - [make virtual machine](https://mat0401.info/blog/hyperv-ubuntuserver/)
   - [Set Proxy](https://qiita.com/daichi-ishida/items/b77c151067427806ede5)
+  - [Set curl proxy](https://qiita.com/tkj/items/c6dad4efc0dff4fecd93)
+    - [reload bashrc](https://www.itmedia.co.jp/help/tips/linux/l0450.html)
