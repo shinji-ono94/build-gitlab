@@ -39,3 +39,4 @@
   - [Set firewall](https://knowledge.support.sony.jp/electronics/support/articles/S1206270039326) 
 - [Oparate gitlab](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
 ### Mak gitlab useful
+- [gitlab Japanese](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
