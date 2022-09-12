@@ -30,3 +30,4 @@
 # build gitlab (Hyper-V)
 ## install manual (Japanese)
 - [make virtual machine](https://mat0401.info/blog/hyperv-ubuntuserver/)
+  - [Set Proxy](https://qiita.com/daichi-ishida/items/b77c151067427806ede5)
