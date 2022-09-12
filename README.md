@@ -33,4 +33,4 @@
   - [Set Proxy](https://qiita.com/daichi-ishida/items/b77c151067427806ede5)
   - [Set curl proxy](https://qiita.com/tkj/items/c6dad4efc0dff4fecd93)
     - [reload bashrc](https://www.itmedia.co.jp/help/tips/linux/l0450.html)
-  - [gitlab install trouble](https://forum.gitlab.com/t/problem-installing-latest-version-on-ubuntu-20-04/43621/6)
+  - [gitlab install trouble(Failed to connect to packages.gitlab.com port 443)](https://forum.gitlab.com/t/problem-installing-latest-version-on-ubuntu-20-04/43621/6)
