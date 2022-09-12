@@ -35,3 +35,5 @@
     - [reload bashrc](https://www.itmedia.co.jp/help/tips/linux/l0450.html)
   - [gitlab install trouble(Failed to connect to packages.gitlab.com port 443)](https://forum.gitlab.com/t/problem-installing-latest-version-on-ubuntu-20-04/43621/6)
 - [Access from Host PC](https://qiita.com/takiru/items/97215e52d8a9525f76c7)
+- [Access from my PC](https://kagasu.hatenablog.com/entry/2018/01/29/184205)
+  - [Set firewall](https://knowledge.support.sony.jp/electronics/support/articles/S1206270039326) 
