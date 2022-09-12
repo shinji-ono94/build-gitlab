@@ -26,3 +26,7 @@
 ## notes
 ### build gitlab (Docker)
 - [install gitlab](https://qiita.com/ryuichi1208/items/1c08523b0ef34d05026f)
+
+# build gitlab (Hyper-V)
+## install manual (Japanese)
+- [make virtual machine](https://mat0401.info/blog/hyperv-ubuntuserver/)
