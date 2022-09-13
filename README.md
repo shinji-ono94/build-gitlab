@@ -40,5 +40,6 @@
 - [Oparate gitlab](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
   - [integrate Microsoft Teams with GitLab](https://docs.gitlab.com/ee/user/project/integrations/microsoft_teams.html)
     - [set gitlab proxy](https://qiita.com/nmatayoshi/items/533a93a5d97de18c9e5a)
+- [install gitlab runner](https://qiita.com/sky_jokerxx/items/2a264a0194a5cbc7bd12)
 ### Mak gitlab useful
 - [gitlab Japanese](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
