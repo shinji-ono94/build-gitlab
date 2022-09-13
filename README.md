@@ -41,5 +41,7 @@
   - [integrate Microsoft Teams with GitLab](https://docs.gitlab.com/ee/user/project/integrations/microsoft_teams.html)
     - [set gitlab proxy](https://qiita.com/nmatayoshi/items/533a93a5d97de18c9e5a)
 - [install gitlab runner](https://qiita.com/sky_jokerxx/items/2a264a0194a5cbc7bd12)
+  - [gitlab build test deploy](https://qiita.com/bremen/items/f47f383b9931a840a25c)
+  - [integrate Eclipse with gitlab](https://qiita.com/neruneruo/items/eefc650ede2bb5efff87)
 ### Mak gitlab useful
 - [gitlab Japanese](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
