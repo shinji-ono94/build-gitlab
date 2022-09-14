@@ -43,5 +43,6 @@
 - [install gitlab runner](https://qiita.com/sky_jokerxx/items/2a264a0194a5cbc7bd12)
   - [gitlab build test deploy](https://qiita.com/bremen/items/f47f383b9931a840a25c)
   - [integrate Eclipse with gitlab](https://qiita.com/neruneruo/items/eefc650ede2bb5efff87)
+  - [set proxy for docker](https://qiita.com/Takahiro-Suzuki/items/ceecceb3b7e7f7a49e92)
 ### Mak gitlab useful
 - [gitlab Japanese](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
