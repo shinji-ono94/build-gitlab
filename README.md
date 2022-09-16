@@ -45,4 +45,5 @@
   - [integrate Eclipse with gitlab](https://qiita.com/neruneruo/items/eefc650ede2bb5efff87)
   - [set proxy for docker](https://qiita.com/Takahiro-Suzuki/items/ceecceb3b7e7f7a49e92)
 ### Mak gitlab useful
-- [gitlab Japanese](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
+- [gitlab Japanese transport](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
+- [gitlab Japanese docs](https://gitlab-docs.creationline.com/ee/user/group/roadmap/)
