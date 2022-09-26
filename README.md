@@ -49,3 +49,4 @@
 - [gitlab Japanese docs](https://gitlab-docs.creationline.com/ee/user/group/roadmap/)
 
 ## summary
+### build gitlab for Hyper-v
