@@ -50,4 +50,7 @@
 
 ## summary
 ### build gitlab for Hyper-v
+#### introduction
 #### spec
+#### manual
+#### final
