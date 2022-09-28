@@ -52,5 +52,9 @@
 ### build gitlab for Hyper-v
 #### introduction
 #### spec
+|  Device  |  Spec  |
+| ---- | ---- |
+|  ServerPC  |  Windows Server 2012  |
+|  VirtualPC  |  Ubuntu 20.04  |
 #### manual
 #### final
