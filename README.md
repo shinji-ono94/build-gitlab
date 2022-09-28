@@ -51,6 +51,8 @@
 ## summary
 ### build gitlab for Hyper-v
 #### introduction
+自社サーバに仮想マシンを作成し、そこにGitLabを導入したので、
+備忘録として手順を残しておく。
 #### spec
 |  Device  |  Spec  |
 | ---- | ---- |
