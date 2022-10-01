@@ -59,4 +59,11 @@
 |  ServerPC  |  Windows Server 2012  |
 |  VirtualPC  |  Ubuntu 20.04  |
 #### manual
+### 仮想マシンを立ち上げ、OSを入れる。
+### ネットワークを設定する。
+### GitLabをインストールする。
+### 外部からアクセスできるように設定する。
+### ユーザ登録できるようにする。
+### GitLab Runnerを立ち上げる。
+### GitLab Runnerと連携する。
 #### final
