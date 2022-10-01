@@ -48,22 +48,22 @@
 - [gitlab Japanese transport](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
 - [gitlab Japanese docs](https://gitlab-docs.creationline.com/ee/user/group/roadmap/)
 
-## summary
-### build gitlab for Hyper-v
-#### introduction
+# summary
+## build gitlab for Hyper-v
+### introduction
 自社サーバに仮想マシンを作成し、そこにGitLabを導入したので、
 備忘録として手順を残しておく。
-#### spec
+### spec
 |  Device  |  Spec  |
 | ---- | ---- |
 |  ServerPC  |  Windows Server 2012  |
 |  VirtualPC  |  Ubuntu 20.04  |
-#### manual
-### 仮想マシンを立ち上げ、OSを入れる。
-### ネットワークを設定する。
-### GitLabをインストールする。
-### 外部からアクセスできるように設定する。
-### ユーザ登録できるようにする。
-### GitLab Runnerを立ち上げる。
-### GitLab Runnerと連携する。
-#### final
+### manual
+## 仮想マシンを立ち上げ、OSを入れる。
+## ネットワークを設定する。
+## GitLabをインストールする。
+## 外部からアクセスできるように設定する。
+## ユーザ登録できるようにする。
+## GitLab Runnerを立ち上げる。
+## GitLab Runnerと連携する。
+### final
