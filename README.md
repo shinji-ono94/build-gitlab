@@ -66,4 +66,5 @@
 ## ユーザ登録できるようにする。
 ## GitLab Runnerを立ち上げる。
 ## GitLab Runnerと連携する。
+## 他サービスと連携する。
 ### final
