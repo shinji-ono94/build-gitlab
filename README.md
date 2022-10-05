@@ -59,6 +59,10 @@
 |  VirtualPC  |  Ubuntu 20.04  |
 ## manual
 ### 仮想マシンを立ち上げ、OSを入れる。
+- [仮想マシンを作成する](https://mat0401.info/blog/hyperv-ubuntuserver/)
+- [プロキシを設定する](https://qiita.com/daichi-ishida/items/b77c151067427806ede5)
+- [curlのプロキシを設定する](https://qiita.com/tkj/items/c6dad4efc0dff4fecd93)
+  - [bashrcをリロードする](https://www.itmedia.co.jp/help/tips/linux/l0450.html)
 ### ネットワークを設定する。
 ### GitLabをインストールする。
 ### 外部からアクセスできるように設定する。
