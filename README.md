@@ -65,6 +65,9 @@
 - [curlのプロキシを設定する](https://qiita.com/tkj/items/c6dad4efc0dff4fecd93)
   - [bashrcをリロードする](https://www.itmedia.co.jp/help/tips/linux/l0450.html)
 ### ネットワークを設定する。
+- [ServerPCからVirtualPCにアクセスできるようにする](https://qiita.com/takiru/items/97215e52d8a9525f76c7)
+- [自分のPCからVirtualPCにアクセスできるようにする](https://kagasu.hatenablog.com/entry/2018/01/29/184205)
+  - [ファイアウォールを設定する](https://knowledge.support.sony.jp/electronics/support/articles/S1206270039326)
 ### GitLabをインストールする。
 ### 外部からアクセスできるように設定する。
 ### ユーザ登録できるようにする。
