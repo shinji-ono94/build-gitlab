@@ -1,14 +1,16 @@
 ## はじめに
 自社サーバに仮想マシンを作成し、そこにGitLabを導入したので、
-備忘録として手順を残しておく。
+備忘録として手順を残します。
 ## 環境
-- サーバPC：Windows Server 2012
-- 仮想マシン：Ubuntu 20.04
+- ホストOS：Windows Server 2012
+- ゲストOS：Ubuntu 20.04 LTS
 - 仮想化システム：Hyper-V
-## manual
-サーバPCはある前提
-### 仮想マシンを立ち上げ、OSを入れる。
-- [仮想マシンを作成する](https://mat0401.info/blog/hyperv-ubuntuserver/)
+## サーバPCを用意する。
+ホストOSをインストールし、社内のルールに従い各種設定してください。  
+今回GitLabを導入したホストPCはすでに設定済みのものでしたので、やり方よく分かりません。
+## 仮想マシンを作成する。
+Hyper-V有効化し、仮想マシンを作成します。その後、仮想マシンにUbuntu 20.04 LTSをインストールします。→[リンク](https://mat0401.info/blog/hyperv-ubuntuserver/)
+- [IPアドレスを固定し、ゲートウェイやDNSも設定する。](https://linuxfan.info/ubuntu-1804-desktop-static-ip-address)
 - [プロキシを設定する](https://qiita.com/daichi-ishida/items/b77c151067427806ede5)
 - [curlのプロキシを設定する](https://qiita.com/tkj/items/c6dad4efc0dff4fecd93)
   - [bashrcをリロードする](https://www.itmedia.co.jp/help/tips/linux/l0450.html)
