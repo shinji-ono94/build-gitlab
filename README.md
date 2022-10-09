@@ -1,11 +1,10 @@
-## introduction
-自社サーバに仮想マシンを立ち上げ、そこにGitLabを導入したので、
+## はじめに
+自社サーバに仮想マシンを作成し、そこにGitLabを導入したので、
 備忘録として手順を残しておく。
-## spec
-|  Device  |  Spec  |
-| ---- | ---- |
-|  ServerPC  |  Windows Server 2012  |
-|  VirtualPC  |  Ubuntu 20.04  |
+## 環境
+- サーバPC：Windows Server 2012
+- 仮想マシン：Ubuntu 20.04
+- 仮想化システム：Hyper-V
 ## manual
 サーバPCはある前提
 ### 仮想マシンを立ち上げ、OSを入れる。
