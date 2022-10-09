@@ -18,9 +18,9 @@ Hyper-V有効化し、仮想マシンを作成します。その後、仮想マ�
 curlコマンドを使用することがあるので、curlにもプロキシを設定します。→[リンク](https://qiita.com/tkj/items/c6dad4efc0dff4fecd93)
 ※bashrcを書き換えた後には必ずリロードしてください。→[リンク](https://www.itmedia.co.jp/help/tips/linux/l0450.html)  
 <br>
-ホストPCのネットワークに繋がっているPCからアクセスできるように、ホストPCでポートフォワーディングする。これをすることで、自席PCからリモート接続できたり、SSHでコマンド叩けるようになります。作業が楽になります。→[リンク](https://kagasu.hatenablog.com/entry/2018/01/29/184205)
+ホストPCのネットワークに繋がっているPCからアクセスできるように、ホストPCでポートフォワーディングする。これをすることで、自席PCからリモート接続できたり、SSHでコマンド叩けるようになります。作業が楽になります。→[リンク](https://kagasu.hatenablog.com/entry/2018/01/29/184205)  
 ※ファイアウォールでの通信を許可するのも忘れないようにしてください。→[リンク](https://xtech.nikkei.com/it/article/COLUMN/20060920/248522/)
-### GitLabをインストールする。
+## GitLabを立ち上げる。
 - [GitLabをインストールする](https://qiita.com/ryuichi1208/items/1c08523b0ef34d05026f)
   - ["Failed to connect to packages.gitlab.com port 443"のエラーメッセージが出た時の対応](https://forum.gitlab.com/t/problem-installing-latest-version-on-ubuntu-20-04/43621/6)
   - [日本語化する](https://getech-lab.toniemon.com/gitlab-japanese-setting/)
