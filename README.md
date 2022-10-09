@@ -16,11 +16,10 @@ Hyper-V有効化し、仮想マシンを作成します。その後、仮想マ�
 <br>
 プロキシ環境下でゲストPCを使用するために、プロキシを設定します。→[リンク](https://qiita.com/daichi-ishida/items/b77c151067427806ede5)  
 curlコマンドを使用することがあるので、curlにもプロキシを設定します。→[リンク](https://qiita.com/tkj/items/c6dad4efc0dff4fecd93)
-  bashrcを書き換えた後には必ずリロードする。→[リンク](https://www.itmedia.co.jp/help/tips/linux/l0450.html)
-### ネットワークを設定する。
-- [ServerPCからVirtualPCにアクセスできるようにする](https://qiita.com/takiru/items/97215e52d8a9525f76c7)
-- [自分のPCからVirtualPCにアクセスできるようにする](https://kagasu.hatenablog.com/entry/2018/01/29/184205)
-  - [ファイアウォールを設定する](https://knowledge.support.sony.jp/electronics/support/articles/S1206270039326)
+※bashrcを書き換えた後には必ずリロードしてください。→[リンク](https://www.itmedia.co.jp/help/tips/linux/l0450.html)  
+<br>
+ホストPCのネットワークに繋がっているPCからアクセスできるように、ホストPCでポートフォワーディングする。これをすることで、自席PCからリモート接続できたり、SSHでコマンド叩けるようになります。作業が楽になります。→[リンク](https://kagasu.hatenablog.com/entry/2018/01/29/184205)
+※ファイアウォールでの通信を許可するのも忘れないようにしてください。→[リンク](https://xtech.nikkei.com/it/article/COLUMN/20060920/248522/)
 ### GitLabをインストールする。
 - [GitLabをインストールする](https://qiita.com/ryuichi1208/items/1c08523b0ef34d05026f)
   - ["Failed to connect to packages.gitlab.com port 443"のエラーメッセージが出た時の対応](https://forum.gitlab.com/t/problem-installing-latest-version-on-ubuntu-20-04/43621/6)
