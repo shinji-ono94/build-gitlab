@@ -9,7 +9,7 @@
 ホストOSをインストールし、社内のルールに従い各種設定してください。  
 今回GitLabを導入したホストPCはすでに設定済みのものでしたので、やり方よく分かりません。
 ## 仮想マシンを作成する。
-Hyper-V有効化し、仮想マシンを作成します。その後、仮想マシンにUbuntu 20.04 LTSをインストールします。→[リンク](https://mat0401.info/blog/hyperv-ubuntuserver/)  
+| Hyper-V有効化し、仮想マシンを作成します。その後、仮想マシンにUbuntu 20.04 LTSをインストールします。|[リンク](https://mat0401.info/blog/hyperv-ubuntuserver/) |
 <br>
 次に、IPアドレスを固定し、ゲートウェイやDNSも設定します。→[リンク](https://linuxfan.info/ubuntu-1804-desktop-static-ip-address)  
 ※ホストPCからゲストPCにアクセスできるようにいい感じに設定してください。→[リンク](https://qiita.com/takiru/items/97215e52d8a9525f76c7)  
