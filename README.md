@@ -26,8 +26,8 @@
 |日本語化する|[リンク](https://getech-lab.toniemon.com/gitlab-japanese-setting/)|
 |GitLab日本語ドキュメント|[リンク](https://gitlab-docs.creationline.com/ee/user/group/roadmap/)|
 ### SMTPを設定する。
-- [SMTPを設定する](https://docs.gitlab.com/omnibus/settings/smtp.html)
-- [メールを送ってみる](http://x68000.q-e-d.net/~68user/unix/pickup?sendmail)
+|SMTPを設定する|[リンク](https://docs.gitlab.com/omnibus/settings/smtp.html)|
+|メールを送ってみる|[リンク](http://x68000.q-e-d.net/~68user/unix/pickup?sendmail)|
 ### GitLab Runnerを立ち上げる。
 - [GitLab Runnerを立ち上げる](https://qiita.com/sky_jokerxx/items/2a264a0194a5cbc7bd12)
 ### 他サービスと連携する。
