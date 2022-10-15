@@ -19,6 +19,8 @@
 |ホストPCのネットワークに繋がっているPCからアクセスできるように、ホストPCでポートフォワーディングする。これをすることで、自席PCからリモート接続できたり、SSHでコマンド叩けるようになります。作業が楽になります。|[リンク](https://kagasu.hatenablog.com/entry/2018/01/29/184205)|
 |※ファイアウォールでの通信を許可するのも忘れないようにしてください。|[リンク](https://xtech.nikkei.com/it/article/COLUMN/20060920/248522/)|
 ## GitLabを立ち上げる。
+|  手順  |  リンク  |
+| ---- | ---- |
 |GitLabをインストールする|[リンク](https://qiita.com/ryuichi1208/items/1c08523b0ef34d05026f)|
 |"Failed to connect to packages.gitlab.com port 443"のエラーメッセージが出た時の対応|[リンク](https://forum.gitlab.com/t/problem-installing-latest-version-on-ubuntu-20-04/43621/6)|
 |日本語化する|[リンク](https://getech-lab.toniemon.com/gitlab-japanese-setting/)|
