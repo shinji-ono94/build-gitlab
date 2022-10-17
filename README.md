@@ -35,8 +35,11 @@
 | ---- | ---- |
 |GitLab Runnerを立ち上げる|[リンク](https://qiita.com/sky_jokerxx/items/2a264a0194a5cbc7bd12)|
 ### 他サービスと連携する。
-- [integrate Microsoft Teams with GitLab](https://docs.gitlab.com/ee/user/project/integrations/microsoft_teams.html)
+|  手順  |  リンク  |
+| ---- | ---- |
+|integrate Microsoft Teams with GitLab|[リンク](https://docs.gitlab.com/ee/user/project/integrations/microsoft_teams.html)|
 ## final
+
 - [Supported operating systems](https://docs.gitlab.com/ee/administration/package_information/supported_os.html)
 - [Reference gitlab architecture](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html)
 - [Compare gitlab to github](https://www.gitlab.jp/devops-tools/github-vs-gitlab.html)
