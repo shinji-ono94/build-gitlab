@@ -25,16 +25,16 @@
 |"Failed to connect to packages.gitlab.com port 443"のエラーメッセージが出た時の対応|[リンク](https://forum.gitlab.com/t/problem-installing-latest-version-on-ubuntu-20-04/43621/6)|
 |日本語化する|[リンク](https://getech-lab.toniemon.com/gitlab-japanese-setting/)|
 |GitLab日本語ドキュメント|[リンク](https://gitlab-docs.creationline.com/ee/user/group/roadmap/)|
-### SMTPを設定する。
+## SMTPを設定する。
 |  手順  |  リンク  |
 | ---- | ---- |
 |SMTPを設定する|[リンク](https://docs.gitlab.com/omnibus/settings/smtp.html)|
 |メールを送ってみる|[リンク](http://x68000.q-e-d.net/~68user/unix/pickup?sendmail)|
-### GitLab Runnerを立ち上げる。
+## GitLab Runnerを立ち上げる。
 |  手順  |  リンク  |
 | ---- | ---- |
 |GitLab Runnerを立ち上げる|[リンク](https://qiita.com/sky_jokerxx/items/2a264a0194a5cbc7bd12)|
-### 他サービスと連携する。
+## 他サービスと連携する。
 |  手順  |  リンク  |
 | ---- | ---- |
 |integrate Microsoft Teams with GitLab|[リンク](https://docs.gitlab.com/ee/user/project/integrations/microsoft_teams.html)|
